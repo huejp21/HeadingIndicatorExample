@@ -1,0 +1,16 @@
+# Visual Studio specific
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Build folders
+out/
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# User-specific files
+*.user
+*.suo
+*.sdf
+*.opensdf
