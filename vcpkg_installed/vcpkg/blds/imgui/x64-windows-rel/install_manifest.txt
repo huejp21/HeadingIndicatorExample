@@ -1,0 +1,14 @@
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/lib/imgui.lib
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui.h
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imconfig.h
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui_internal.h
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imstb_textedit.h
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imstb_rectpack.h
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imstb_truetype.h
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui_stdlib.h
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui_impl_glfw.h
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui_impl_opengl3.h
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui_impl_opengl3_loader.h
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/share/imgui/imgui-config.cmake
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/share/imgui/imgui-targets.cmake
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/share/imgui/imgui-targets-release.cmake

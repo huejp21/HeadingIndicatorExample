@@ -16,16 +16,18 @@ find_package(OpenGL REQUIRED)
 find_package(glfw3 CONFIG REQUIRED)
 find_package(GLEW REQUIRED)
 find_package(glm CONFIG REQUIRED)
+find_package(imgui CONFIG REQUIRED)
 
 add_executable(HeadingIndicatorExample 
     main.cpp 
     HeadingIndicator.cpp 
     HeadingIndicator.h
-)
+ "Constants.h")
 
 target_link_libraries(HeadingIndicatorExample PRIVATE
     OpenGL::GL
     glfw
     GLEW::GLEW
     glm::glm-header-only
+    imgui::imgui
 )

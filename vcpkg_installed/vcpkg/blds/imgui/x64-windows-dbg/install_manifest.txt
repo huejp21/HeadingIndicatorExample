@@ -1,0 +1,4 @@
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/debug/lib/imguid.lib
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/debug/share/imgui/imgui-config.cmake
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/debug/share/imgui/imgui-targets.cmake
+D:/Project/Test/HeadingIndicatorExample/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/debug/share/imgui/imgui-targets-debug.cmake
